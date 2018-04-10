@@ -1,0 +1,12 @@
+{
+  "name": "kbot",
+  "version": "1.0.0",
+  "description": "klasa remake of kola bot",
+  "main": "kbot.js",
+  "author": "Snackb0ne",
+  "license": "GPL",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js",
+    "klasa": "dirigeants/klasa"
+  }
+}
